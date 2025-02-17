@@ -2,17 +2,29 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class SettingsScript : MonoBehaviour
 {
     public GameObject settingsCanvas, mainMenuCanvas;
 
-    void Start() {
+    public void openSettings() {
+        settingsCanvas.SetActive(true);
+
+        mainMenuCanvas.SetActive(false);
+    }
+
+    public void backButton() {
+        mainMenuCanvas.SetActive(true);
         settingsCanvas.SetActive(false);
     }
 
-    public void openSettings() {
-        mainMenuCanvas.SetActive(false);
-        settingsCanvas.SetActive(true);
+    public void playButton() {
+        SceneManager.LoadScene(1);
     }
+
+    public void doExitGame() {
+        Application.Quit();
+    }
+
 }

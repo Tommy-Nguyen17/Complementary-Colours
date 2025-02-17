@@ -8,3 +8,4 @@ Music:
 * Main Menu BGM: Oyasumi by Kei Morimoto
 * Jukebox Music:
   *  Track 1: How To Get Physical by Magdelena Bay
+  *  Track 2: 15 Minutes by Sabrinna Carpenter

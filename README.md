@@ -30,9 +30,9 @@ Game Soundtrack:
 	    * Track 1: How To Get Physical by Magdelena Bay
 	    * Track 2: Stop and Go by Magdelena Bay
 	    * Track 3: 15 Minutes by Sabrinna Carpenter
-	    * Track 5: Möbius Chicken Strip by Origami Angel
-	    * Track 6: Stay Awhile by girlfriends
-	    * Track 7: Under My Breath by NOTD ft. Riley Biederer
+	    * Track 4: Möbius Chicken Strip by Origami Angel
+	    * Track 5: Stay Awhile by girlfriends
+	    * Track 6: Under My Breath by NOTD ft. Riley Biederer
 
 
 

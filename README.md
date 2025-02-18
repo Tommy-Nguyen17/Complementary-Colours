@@ -15,7 +15,7 @@ Game Soundtrack:
 		 * Track: Rest In Pieces by Kelsy Karter & The Heroines ft. Goody Grace
 
 	* Chapter 2: 
-		 * Track: none
+		 * Track: Spring Blossom by Ennio Mano
 
 	* Chapter 3: 
 		 * Track: 2am by girlfriends ft. DeathbyRomy

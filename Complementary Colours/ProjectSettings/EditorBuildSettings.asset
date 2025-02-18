@@ -14,4 +14,43 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Apartment.unity
     guid: 2a2b35210823886498bfa28635494187
+  - enabled: 1
+    path: Assets/Scenes/Cutscene Scenes/Check Notifs Scene.unity
+    guid: 8724cb953523892448368c262c1e93d2
+  - enabled: 1
+    path: Assets/Scenes/Cutscene Scenes/Coding Scene.unity
+    guid: bad760819194ebd4b94f3705a82f53f8
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2.unity
+    guid: 6815d76ab193a4c45ad666923e8da2c7
+  - enabled: 1
+    path: Assets/Scenes/Muted Color Apartment.unity
+    guid: 23c5cab813a76744b8c5200c5060a0ff
+  - enabled: 1
+    path: Assets/Scenes/Cutscene Scenes/Discord Call.unity
+    guid: d8a6c3f6c72501d42a19e335d713658f
+  - enabled: 1
+    path: Assets/Scenes/Cutscene Scenes/Split Screen POV.unity
+    guid: c484aba79bb481746b08beba8c324f4a
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3.unity
+    guid: 43170da7a1a25dd4c925d9ba5f5693db
+  - enabled: 1
+    path: Assets/Scenes/Cutscene Scenes/Discord Cutscene.unity
+    guid: 7f3ba4d6d26e4c044a1eba7f5865906e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene Scenes/LGS Cutscene.unity
+    guid: c020436967c57a145b060b3c83359a95
+  - enabled: 1
+    path: Assets/Scenes/Apartment True Colors.unity
+    guid: 3dfae9fdae809cf448529dbaad88b3d6
+  - enabled: 1
+    path: Assets/Scenes/Cutscene Scenes/Boba Scene.unity
+    guid: 361a017d3a1f46944a58b8aed495bc0f
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: aa014fd0b389d3748b3ccd716c911661
+  - enabled: 1
+    path: Assets/Scenes/Cutscene Scenes/Anime time.unity
+    guid: 934dc123b660f9b40a98e81ee2dc65c3
   m_configObjects: {}

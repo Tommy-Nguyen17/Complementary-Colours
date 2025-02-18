@@ -10,6 +10,18 @@ public class SettingsScript : MonoBehaviour
 
     public bool settingsAreOpened = false;
 
+    /*void Update() {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            openClosePause();
+        }
+    }*/
+
+    void Start() {
+        pauseMenuCanvas.SetActive(false);
+        pauseMenuCanvas.SetActive(true);
+    }
+
     public void openSettings() {
         settingsCanvas.SetActive(true);
         mainMenuCanvas.SetActive(false);
@@ -25,8 +37,6 @@ public class SettingsScript : MonoBehaviour
             mainMenuCanvas.SetActive(false);
         }  
     }
-
-
 
     public void backButton() {
         mainMenuCanvas.SetActive(true);

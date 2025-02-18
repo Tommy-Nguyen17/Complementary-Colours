@@ -18,9 +18,6 @@ Game Soundtrack:
 		 * Track: none
 
 	* Chapter 3: 
-		 * Track: none
-
-	* Chapter 4: 
 		 * Track: 2am by girlfriends ft. DeathbyRomy
 
 	* Credits: 

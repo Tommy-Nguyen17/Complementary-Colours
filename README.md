@@ -1,5 +1,11 @@
 # Complementary-Colours
-A game about colours
+A game about colours.
+
+# How to play
+- A to move Left
+- D to move Right
+- esc to progress to the next cutscene
+- E to interact
 
 Assets Used: 
 * https://samuel-tome.itch.io/ui-asset-pack

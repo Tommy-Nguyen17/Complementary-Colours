@@ -29,7 +29,7 @@ Game Soundtrack:
 	* Credits: 
 		 * Track: I Think I Like You by The Band CAMINO 
 
-	* Jukebox Music:
+	* Record Player Music:
 	    * Track 1: How To Get Physical by Magdelena Bay
 	    * Track 2: Stop and Go by Magdelena Bay
 	    * Track 3: 15 Minutes by Sabrinna Carpenter
